@@ -9,7 +9,7 @@ Buka XAMPP Control Lalu Klik `Start` untuk menjalankan MySQL Server. Pastikan we
 ![Step1](ss/s1.png)<br>
 
 Membuat Folder `lab9_php_modular` pada root directory web server (d:\xampp\htdocs)
-![Step2](s/s4.png)<br>
+![Step2](ss/s4.png)<br>
 
 <b>Praktikum</b>
 
